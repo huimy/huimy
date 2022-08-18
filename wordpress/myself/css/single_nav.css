@@ -1,0 +1,140 @@
+.header_wrapme {
+    overflow: hidden;
+    margin-top: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    background: #FFF;
+    box-shadow: 0 0 5px rgba(0,0,0,0.2);
+    -moz-box-shadow: 0 0 5px rgba(0,0,0,0.2);
+    -webkit-box-shadow: 0 0 20px rgba(0,0,0,0.2);
+    position: relative;
+}
+
+#headerme{
+	float: left;
+	margin-top: 30px;
+    margin-bottom: 10px;
+    position: relative;
+    z-index: 99;
+}
+
+
+	#logome {
+    float: left;
+    color: #000;
+    text-shadow: 1px 1px 1px #FFF;
+}
+#logome h2, #logome h1 {
+    color: #000;
+    margin: 0 !important;
+    line-height: 1em !important;
+    font-size: 36px;
+    font-weight: bold;
+    font-style: normal;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+}
+#logome h2 a, #logome h1 a {
+    color: #424242;
+    text-decoration: none;
+}
+#mainme {
+    margin-top: 20px;
+    padding-top: 0px !important;
+}
+.containerme {
+    padding-right: 0;
+    padding-left: 0;
+    margin-left: auto;
+    margin-right: auto;
+    
+    word-break: break-all;
+}
+
+.clearfixme:before, .clearfixme:after {
+    content: '\0020';
+    display: block;
+    overflow: hidden;
+    visibility: hidden;
+    width: 0;
+    height: 0;
+}
+
+.clearfixme:after {
+    display: block;
+    visibility: hidden;
+    content: ".";
+    clear: both;
+    text-indent: -9999px;
+    height: 0;
+}
+
+.containerme .contentme {
+    width: 100%;
+}
+ .contentme {
+    display: inline;
+    float: left;
+    position: relative;
+    margin-left: 15px;
+    margin-right: 15px;
+}
+.alphame {
+    margin-left: 0;}
+.entryme {
+    margin-bottom: 20px;
+    padding: 20px;
+    background: #FFF;
+    box-shadow: 0 0 5px rgba(0,0,0,0.2);
+    -moz-box-shadow: 0 0 5px rgba(0,0,0,0.2);
+    -webkit-box-shadow: 0 0 20px rgba(0,0,0,0.2);
+    position: relative;
+}
+.clearfixme {
+    zoom: 1;
+}
+.entryme h1 {
+    margin-bottom: 0px;
+}
+
+
+.clearme {
+    clear: both;
+    display: block;
+    overflow: hidden;
+    visibility: hidden;
+    width: 0;
+    height: 0;
+}
+.post-titleme {
+    color: #424242;
+}
+.containerme h2, h3, h4 {
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+.containerme h2 {
+    font-size: 18px;
+}
+.containerme h1, h2, h3, h4 {
+    color: #535353;
+    line-height: 1.5em;
+    font-weight: normal;
+}
+.entry-contentme a {
+    border-bottom: 1px dashed #CCC;
+}
+
+.containerme a {
+    text-decoration: none;
+    color: #000;
+    -webkit-transition: background 0.2s ease-in-out;
+    -moz-transition: background 0.2s ease-in-out;
+    -o-transition: background 0.2s ease-in-out;
+    -ms-transition: background 0.2s ease-in-out;
+    transition: background 0.2s ease-in-out;
+}
+
+
+

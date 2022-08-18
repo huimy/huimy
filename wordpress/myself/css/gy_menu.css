@@ -1,0 +1,59 @@
+
+.customize-support #min{
+    background-image: url('./myself/more/gy_meau.jpg');
+}
+
+ .article-list-title,  .picture-list-title,.search-list-title  {
+  margin-bottom: 10px;
+  padding: 6px 0 12px 40px;
+  border-bottom: solid 1px #112e7c;
+  color: #456;
+  font-size: 24px;
+  line-height: 26px;
+  font-family: "微软雅黑";
+}
+  .internews {
+  display: block;
+}
+.internews .article-list-title {
+ /* background: url(./pic/tag.jpg) no-repeat 5px 0;*/
+
+}
+.p4 {
+  padding: 4px;
+  _padding:4px 0 4px;
+}
+ .internews .lawbox ul li {
+  height: 49px;
+  line-height: 49px;
+  border-bottom: #ccc dotted 1px;
+  font-size: 14px;
+  padding-left: 25px;
+  font-family: "微软雅黑";
+  overflow: hidden;
+ 
+
+  background-repeat: no-repeat ;
+  background-position: left 13px;
+background-size:coevr; 
+}
+html, body, div, span,   ol, ul, li, mark {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  outline: 0;
+  font-size: 100%;
+}
+
+ol, ul {
+  list-style: none
+}
+a, a:link, a:visited {
+  color: #333;
+  text-decoration: none;
+  cursor: pointer
+}
+.internews .lawbox ul li span {
+  color: #2119;
+  float: right;
+}

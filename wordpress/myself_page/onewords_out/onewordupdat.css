@@ -1,0 +1,52 @@
+
+body{
+    background-image: url("./img/2000636.jpg");
+    margin: 0px;
+    background-size:cover ;
+    
+}
+.main{
+    margin-top: -50px;
+    width: 100%;
+   
+    
+}
+.main .title{
+ margin-top: 10em;
+ height: 5em;
+ text-align: center;
+ width: 100%;
+}
+.main .up{
+    height: 25em;
+    width: 100%;
+}
+.main .up fieldset{
+    text-align: center;
+    width: 95%;
+    height: 25em;
+    margin: auto;
+    border-radius: 3px;
+    
+}
+.main .up fieldset p{
+ 
+    margin-top: 2em;
+    
+}
+
+.main .up fieldset .tw {
+    height: 15em;
+     margin: auto;  
+}
+
+.main .up fieldset input{
+    border: 2px solid #ccc;  /*设置输入框边框，边缘线的颜色、大小、及实线虚线*/
+    padding: 7px 0px;
+    width: 55%;
+}
+.main .up fieldset #main{
+    height: 7em;
+   
+    margin: auto;
+}
